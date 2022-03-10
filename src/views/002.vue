@@ -3,6 +3,7 @@
   <h1>name: {{obj.name}}</h1>
   <h1>name: {{obj.age}}</h1>
   <h1>name: {{obj.company}}</h1>
+  <h3>你能收到消息嘛</h3>
   <el-button type="primary" @click="btn">dianji</el-button>
   <h1></h1>
   <h1></h1>
